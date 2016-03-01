@@ -83,7 +83,7 @@ int Iniciar(void){
 	int mayor[CIUDADES] = {a,b,c,d,e,f,g,h};
 	int ma = 0;
 	for(int i = 0; i < CIUDADES; i++){
-		if(mayor[m] < mayor[i]){
+		if(mayor[ma] < mayor[i]){
 			ma = i;
 		}
 	}
