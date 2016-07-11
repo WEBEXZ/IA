@@ -1,2 +1,3 @@
-# IA
-Programas en hechos en c
+# Inteligencia Artificial
+
+Programas en hechos en C, Javascript, etc ...
