@@ -1,0 +1,10 @@
+#tablero{
+	border: 10px solid black;
+	font-size: 30px;
+}
+
+td {
+	border: 3px solid black;
+	width: 45px;
+	height: 50px;
+}
